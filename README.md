@@ -1,5 +1,8 @@
 # E-Commerce-Back-End
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
+
 ## Description
 
 This is an E-Commerce Back End application that allows a user to run Get, Post, Put, and Delete requests in their database to view and update their products and product information. The user is able to run Get requests to see the following:
@@ -28,6 +31,19 @@ Here are video tutorials (Part 1 and Part 2) to show you how the application wor
 [Tutorial Part 1](https://drive.google.com/file/d/1QneYkZaNPEIVITOrONwfParR7NlCI-4t/view)
 [Tutorial Part 2](https://drive.google.com/file/d/1kfUOmoRf6gmJ722WT14qEwNnexWSwReO/view)
 
+## Screenshot
+[E-Commerce]()
+
+## Technologies
+
+This application utilizes MySQL, sequelize, dotenv, express
+
+## License 
+
+This project is licensed under MIT License.
+
 ## Questions
 
 If you have any questions about the repo, open an issue, or contact me directly at jenny.p.dinh@gmail.com. You can find more of my work at (https://github.com/jdinh3)
+
+
